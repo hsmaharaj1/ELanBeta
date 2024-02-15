@@ -68,9 +68,9 @@ const CompetitionsDup = () => {
         "It’s the last day on Earth and you’re still alive. Write about what you feel,do and feel free to add in whatever you want.  ",
       img: begen,
       registration:
-        "https://docs.google.com/forms/d/e/1FAIpQLSe1S84fsj5emq4bMX41JrqaFZk4nV57r05PJi2nIUuDULgNkw/viewform?usp=sf_link",
-      submission: false,
-      over: false,
+        "https://forms.gle/VpcniXXYTSoADXxg8",
+      submission: true,
+      over: true,
     },
     {
       title: "Who wants to be a (budget) Shakespeare",
@@ -79,7 +79,7 @@ const CompetitionsDup = () => {
       registration:
         "https://forms.gle/qFAcTvyAomNbmqUB7",
       submission: true,
-      over: false,
+      over: true,
     },
     {
       title: "Back to the future",
@@ -87,9 +87,9 @@ const CompetitionsDup = () => {
         "'The greatest art in the world is the art of storytelling.'<br />- Cecil B. DeMile <br />Unleash the hidden storyteller in you by writing a short yet enthralling story based on one of the timeline you get sent to. Don’t worry we got you , we will give a specific timeline which will be filled with events",
       img: btf,
       registration:
-        "https://docs.google.com/forms/d/e/1FAIpQLSd8TtiMtZrXIgj5LuL-OWJD-HIZh16fU2sSSEmsXn3HaZXgug/viewform?usp=sf_link",
-      submission: false,
-      over: false,
+        "https://forms.gle/jyP5eZC4r7s4TFF56",
+      submission: true,
+      over: true,
     },
     {
       title: "Dialogue Rewind",
@@ -99,7 +99,7 @@ const CompetitionsDup = () => {
       registration:
         "https://forms.gle/JB3tshZfGxzN3Jhn6",
       submission: true,
-      over: false,
+      over: true,
     },
     {
       title: "A Walk down Memory Lane",
